@@ -18,5 +18,3 @@ pipeline {
         }
     }
 }
-
-# My First Repo
